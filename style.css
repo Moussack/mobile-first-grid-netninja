@@ -312,4 +312,8 @@ footer img {
    body {
       font-size: 20px;
    }
+   .grid {
+      width: 100%;
+      max-width: 1920px;
+   }
 }
